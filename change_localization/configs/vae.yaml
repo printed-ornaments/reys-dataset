@@ -1,0 +1,13 @@
+model:
+  name: vae
+  latent_dims: 2
+  feature_size: 512
+training:
+  lr: 0.0001
+  n_epochs: 3000
+  batch_size: 32
+  kl_alpha: 0.1
+  scheduler:
+    gamma: 0.1
+    lr_step: 2500
+num_threshold: 100

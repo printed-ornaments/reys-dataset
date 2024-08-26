@@ -1,0 +1,9 @@
+model:
+  name: congealing
+training:
+  lr: 0.001
+  n_epochs: 3000
+  scheduler:
+    gamma: 0.1
+    lr_step: 2500
+num_threshold: 100

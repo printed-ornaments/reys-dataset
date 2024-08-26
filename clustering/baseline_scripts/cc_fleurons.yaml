@@ -1,0 +1,26 @@
+
+clustering_framework: cc
+project_name: deep_clustering
+group: fleurons
+run_name: CC
+dataset: fleurons
+dataset_path: "./data_folder/fleurons/"
+
+backbone: resnet34
+proj_dim: 128
+
+optimizer: adam
+lr: 0.0003
+weight_decay: 0.
+
+epochs: 1000
+eval_interval: 10
+crop_size: 224
+batch_size: 256
+
+clusters: 36
+classes_no: 36
+clusterings: 1
+
+threshold_rate: 0.99
+divclust_mbank_size: 10000

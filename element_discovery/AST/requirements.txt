@@ -1,0 +1,13 @@
+opencv-python
+tensorboard
+torchvision
+natsort
+numpy
+scipy
+tqdm >= 4.35.0
+pytorch_model_summary
+datetime
+scipy
+scikit-learn
+seaborn
+transformers
