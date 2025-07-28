@@ -17,9 +17,9 @@ We offer three task-specific subsets of **_Rey's Ornaments dataset_**:
 └── change_localization
 ```
 Detailed explanations of datasets, tasks, baselines and evaluation demos are presented in following ReadMe files:
-- clustering [ReadMe](https://github.com/mathieuaubry/roii/blob/main/clustering/README.md)
-- element discovery [ReadMe](https://github.com/mathieuaubry/roii/blob/main/element_discovery/README.md)
-- change localization [ReadMe](https://github.com/mathieuaubry/roii/blob/main/change_localization/README.md)
+- clustering [ReadMe](https://github.com/printed-ornaments/reys-dataset/tree/main/clustering/README.md)
+- element discovery [ReadMe](https://github.com/printed-ornaments/reys-dataset/tree/main/element_discovery/README.md)
+- change localization [ReadMe](https://github.com/printed-ornaments/reys-dataset/tree/main/change_localization/README.md)
 
 ## Citation :bookmark:
 
