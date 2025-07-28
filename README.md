@@ -21,6 +21,8 @@ Detailed explanations of datasets, tasks, baselines and evaluation demos are pre
 - element discovery [ReadMe](https://github.com/printed-ornaments/reys-dataset/tree/main/element_discovery/README.md)
 - change localization [ReadMe](https://github.com/printed-ornaments/reys-dataset/tree/main/change_localization/README.md)
 
+:hugs: Hugging Face link to our dataset: [link](https://huggingface.co/datasets/sonatbaltaci/reys-ornaments-dataset)
+
 ## Citation :bookmark:
 
 ```
